@@ -1,0 +1,25 @@
+
+
+
+
+
+
+
+
+
+
+
+path: african-wildlife
+train: images/train
+val: images/val
+test: images/test
+
+
+names:
+  0: buffalo
+  1: elephant
+  2: rhino
+  3: zebra
+
+
+download: https://github.com/ultralytics/assets/releases/download/v0.0.0/african-wildlife.zip

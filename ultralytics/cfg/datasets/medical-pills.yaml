@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+
+
+
+
+path: medical-pills
+train: images/train
+val: images/val
+
+
+names:
+  0: pill
+
+
+download: https://github.com/ultralytics/assets/releases/download/v0.0.0/medical-pills.zip

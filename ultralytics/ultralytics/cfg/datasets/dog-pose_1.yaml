@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+path: dog-pose
+train: images/train
+val: images/val
+
+
+kpt_shape: [24, 3]
+
+
+names:
+  0: dog
+
+
+download: https://github.com/ultralytics/assets/releases/download/v0.0.0/dog-pose.zip

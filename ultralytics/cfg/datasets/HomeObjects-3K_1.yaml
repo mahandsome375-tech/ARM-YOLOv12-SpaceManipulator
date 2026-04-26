@@ -1,0 +1,32 @@
+
+
+
+
+
+
+
+
+
+
+
+path: homeobjects-3K
+train: images/train
+val: images/val
+
+
+names:
+  0: bed
+  1: sofa
+  2: chair
+  3: table
+  4: lamp
+  5: tv
+  6: laptop
+  7: wardrobe
+  8: window
+  9: door
+  10: potted plant
+  11: photo frame
+
+
+download: https://github.com/ultralytics/assets/releases/download/v0.0.0/homeobjects-3K.zip

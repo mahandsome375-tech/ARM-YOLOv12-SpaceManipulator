@@ -1,0 +1,21 @@
+
+
+
+train: "dataset/images/train"
+val:   "dataset/images/val"
+
+
+names:
+  0: "obj"
+
+
+extra:
+  depth_dir:   "dataset/depth"
+  tau_dir:     "dataset/tau"
+  phi_sin_dir: "dataset/phi_sin"
+  phi_cos_dir: "dataset/phi_cos"
+  logvar_dir:  "dataset/logvar"
+
+
+
+
